@@ -6,9 +6,9 @@ eGov Foundation is a Omidyar Network backed firm which uses technology to transf
 
 Having had some prior experience in the area of sanitation, made a presentation on some of the features that could be added for a citizen-friendly online journey.
 
-## Addendum: 
+### Addendum: 
 *Some additional ideas I have elaborated below on a) unbundling the components of the current workflow and b) making the entire process digital. 
-This idea comes from the implementation of UPI  wherein all ecosystem players take part simultaneously to fulfil the user's request through APIs for a completely digital trail and no manual workflow. *
+This idea comes from the implementation of UPI  wherein all ecosystem players take part simultaneously to fulfil the user's request through APIs for a completely digital trail and no manual workflow.*
 
 Currently the sanitation workflow is defined as follows:
 1. Citizen raises request on the govt. app built on DIGIT platform
