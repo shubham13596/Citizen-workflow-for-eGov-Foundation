@@ -6,8 +6,8 @@ eGov Foundation is a Omidyar Network backed firm which uses technology to transf
 
 Having had some prior experience in the area of sanitation, made a presentation on some of the features that could be added for a citizen-friendly online journey.
 
-#Addendum: 
-Some additional ideas I have elaborated below on a) unbundling the components of the current workflow and b) making the entire process digital. This idea comes from the current implementation of the UPI ecosystem wherein during the user journey, all players take part simultaneously to fulfil the user's request through communication via APIs for a completely digital trail and no manual workflow.
+## Addendum: 
+* Some additional ideas I have elaborated below on a) unbundling the components of the current workflow and b) making the entire process digital. This idea comes from the current implementation of the UPI ecosystem wherein during the user journey, all players take part simultaneously to fulfil the user's request through communication via APIs for a completely digital trail and no manual workflow. *
 
 Currently the sanitation workflow has been defined as follows:
 1. Citizen raises request on the app
@@ -18,7 +18,7 @@ Currently the sanitation workflow has been defined as follows:
 
 From the literature that I have studied and my trips, I realised that one of the major reason for people calling manual scavengers is ease of access. So whereas the village citizen might have to call the government agency to have someone come over, manual scavengers were easy to find and quick to come when the tank was at the brim (in times of emergency). If those scenarios have to be catered to, the workflow has to be such that it requires minimal manual intervention through the entire process.
 
-Modified scenarios
+### Modified scenarios
 Step 1. Citizen raises request on the app
 Can it possible for ULBs to monitor the houses which have septic tanks installed and automatically have a warning issued if a septic tank hasn't been cleaned within a certain timeframe? This would basically involve having a registry of all houses, a flag for the kind of septic tank against them (if there is) and an estimated time of filling up- so that the next cycle of schedule is notified. 
 Such proactive monitoring will avoid situations wherein customer realises of a full septic tank at the last minute and is forced to call manual scavengers.
